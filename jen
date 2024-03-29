@@ -5,7 +5,7 @@ node {
     }
     stage('init') {
         dir('sirss3'){
-        sh 'terraform init -reconfigure'
+        sh 'terraform init'
         }
         
     }
