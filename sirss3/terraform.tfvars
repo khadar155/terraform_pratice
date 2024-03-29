@@ -1,1 +1,1 @@
-mybucket = "dev-test-naresh-devopsaws786534343"
+mybucket = "devtestnareshdevopsaws7865fslkhsldh34343"
